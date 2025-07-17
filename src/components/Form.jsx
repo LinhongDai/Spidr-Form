@@ -140,7 +140,6 @@ const Form = () => {
                             pin: e.target.value,
                         }))
                     }
-                as={Input}
                 placeholder="1234-5678-9012-3456"
                 />
 
